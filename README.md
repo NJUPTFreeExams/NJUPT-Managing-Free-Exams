@@ -63,7 +63,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ### 其他
 
-1. [创业市场研究与开拓A]([https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/%E5%88%9B%E4%B8%9A%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BC%80%E6%8B%93A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/创业市场研究与开拓A)) ✅ @大二上 (Last updated: 2018-04-27)
+1. [创业市场研究与开拓A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/创业市场研究与开拓A?1556441927272) ✅ @大二上 (Last updated: 2018-04-27)
 2. [电子商务导论（双语）]([https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E5%AF%BC%E8%AE%BA%EF%BC%88%E5%8F%8C%E8%AF%AD%EF%BC%89?1556441389164](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电子商务导论（双语）?1556441389164)) ✅ @大二上 (Last updated: 2018-04-27)
 3. [多媒体技术与应用]([https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/多媒体技术与应用)) ✅ @大一下 (Last updated: 2018-04-27)
 4. [网络信息资源检索]([https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90%E6%A3%80%E7%B4%A2?1556441469559](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/网络信息资源检索?1556441469559)) ✅ @大二下 (Last updated: 2018-04-27)
