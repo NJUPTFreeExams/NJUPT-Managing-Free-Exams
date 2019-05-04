@@ -38,7 +38,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 **注意**：通识类课程资源已经转移到 [`NJUPT_General_Free_Exams` 项目](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams)下，欢迎查看！
 
-### 数理基础类
+### 数学基础类
 
 1. 高等数学A（上）@大一上
 2. [线性代数与解析几何](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95) ✅ @大一下 (Last updated: 2018-02-17)
@@ -76,3 +76,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 5. [物联网导论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/物联网导论?1556441362233) ✅ @大二上 (Last updated: 2018-04-28)
 6. [现代信息技术概论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/现代信息技术概论?1556944655972) ✅ @大三上 (Last updated: 2018-05-04)
 7. [电子信息安全](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电子信息安全) ✅ @大三上 (Last updated: 2018-05-04)
+
+## 贡献者名单
+
+* <a href="https://github.com/Wonz5130"><img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px"></a> 
+* Miss_JY
