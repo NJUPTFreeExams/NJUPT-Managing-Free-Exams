@@ -55,7 +55,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 5. [管理信息系统A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理信息系统A?1556441407218) ✅ @大二上 (Last updated: 2018-04-27)
 6. [数据库原理与应用](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/数据库原理与应用?1556441345447) ✅ @大二下 (Last updated: 2018-04-27)
 7. [市场营销](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/市场营销?1556441312829) ✅ @大二下 (Last updated: 2018-04-27)
-8. 财务会计
+8. [财务会计](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/财务会计?1556944612865) ✅ @大三上 (Last updated: 2018-05-04)
 
 ### 限选类
 
@@ -64,15 +64,15 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ### 计算机类
 
-1. 操作系统
-2. 软件工程
+1. [操作系统](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/操作系统) ✅ @大三上 (Last updated: 2018-05-04)
+2. [软件工程](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/软件工程) ✅ @大三上 (Last updated: 2018-05-04)
 
 ### 其他
 
 1. [创业市场研究与开拓A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/创业市场研究与开拓A?1556441927272) ✅ @大二上 (Last updated: 2018-04-27)
-2. [电子商务导论（双语）](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电子商务导论（双语）?1556441389164) ✅ @大二上 (Last updated: 2018-04-27)
+2. [电子商务导论（双语）](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电子商务导论（双语）?1556441389164) ✅ @大二上 (Last updated: 2018-05-04)
 3. [多媒体技术与应用](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/多媒体技术与应用) ✅ @大一下 (Last updated: 2018-04-27)
 4. [网络信息资源检索](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/网络信息资源检索?1556441469559) ✅ @大二下 (Last updated: 2018-04-27)
 5. [物联网导论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/物联网导论?1556441362233) ✅ @大二上 (Last updated: 2018-04-28)
-6. 现代信息技术概论
-7. 电子信息安全
+6. [现代信息技术概论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/现代信息技术概论?1556944655972) ✅ @大三上 (Last updated: 2018-05-04)
+7. [电子信息安全](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电子信息安全) ✅ @大三上 (Last updated: 2018-05-04)
