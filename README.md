@@ -44,7 +44,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 2. [线性代数与解析几何](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95) ✅ @大一下 (Last updated: 2018-02-17)
 3. [高等数学A（下）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
 4. [概率论与数理统计](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) ✅ @大二上 (Last updated: 2018-02-17)
-5. [运筹学](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/运筹学?1556441480801) ✅ @大二下 (Last updated: 2018-04-27)
+5. [运筹学](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/运筹学?1556441480801) ✅ @大二下 (Last updated: 2018-05-04)
 
 ### 管理专业课类
 
@@ -52,14 +52,14 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 2. [微观经济学](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/微观经济学?1556441329356) ✅ @大二上 (Last updated: 2018-04-27)
 3. [宏观经济学](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/宏观经济学) ✅ @大二下 (Last updated: 2018-04-27)
 4. [统计学B](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/统计学B?1556441452588)  ✅ @大二上 (Last updated: 2018-04-28)
-5. [管理信息系统A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理信息系统A?1556441407218) ✅ @大二上 (Last updated: 2018-04-27)
+5. [管理信息系统A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理信息系统A?1556441407218) ✅ @大二上 (Last updated: 2018-05-04)
 6. [数据库原理与应用](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/数据库原理与应用?1556441345447) ✅ @大二下 (Last updated: 2018-04-27)
 7. [市场营销](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/市场营销?1556441312829) ✅ @大二下 (Last updated: 2018-04-27)
 8. [财务会计](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/财务会计?1556944612865) ✅ @大三上 (Last updated: 2018-05-04)
 
 ### 限选类
 
-1. [管理沟通](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理沟通?1556441437426) ✅ @大二下 (Last updated: 2018-04-27)
+1. [管理沟通](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理沟通?1556441437426) ✅ @大二下 (Last updated: 2018-05-04)
 2. [电信生产运营](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电信生产运营?1556441375468) ✅ @大二下 (Last updated: 2018-04-27)
 
 ### 计算机类
@@ -79,5 +79,5 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 贡献者名单
 
-* <a href="https://github.com/Wonz5130"><img src="https://avatars1.githubusercontent.com/u/35889526?v=4" width="50px"></a> 
-* Miss_JY
+* [Wonz](https://github.com/Wonz5130)
+* [Miss_JY]()
