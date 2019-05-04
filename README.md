@@ -1,7 +1,7 @@
 # NJUPT-Managing-Free-Exams
 南京邮电大学管理学院历年考试资料。
 
-受友校启发，我们决定将**南京邮电大学**管理学院课程的历年资料整理出来，以利后人。有些项目对本资料集有重要影响，我们已将其Star, 欢迎查看。同时向他们表示感谢。
+受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**南京邮电大学**管理学院课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
 
 ## 说明
 
@@ -55,11 +55,17 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 5. [管理信息系统A](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理信息系统A?1556441407218) ✅ @大二上 (Last updated: 2018-04-27)
 6. [数据库原理与应用](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/数据库原理与应用?1556441345447) ✅ @大二下 (Last updated: 2018-04-27)
 7. [市场营销](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/市场营销?1556441312829) ✅ @大二下 (Last updated: 2018-04-27)
+8. 财务会计
 
 ### 限选类
 
 1. [管理沟通](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理沟通?1556441437426) ✅ @大二下 (Last updated: 2018-04-27)
 2. [电信生产运营](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/电信生产运营?1556441375468) ✅ @大二下 (Last updated: 2018-04-27)
+
+### 计算机类
+
+1. 操作系统
+2. 软件工程
 
 ### 其他
 
@@ -68,3 +74,5 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 3. [多媒体技术与应用](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/多媒体技术与应用) ✅ @大一下 (Last updated: 2018-04-27)
 4. [网络信息资源检索](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/网络信息资源检索?1556441469559) ✅ @大二下 (Last updated: 2018-04-27)
 5. [物联网导论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/物联网导论?1556441362233) ✅ @大二上 (Last updated: 2018-04-28)
+6. 现代信息技术概论
+7. 电子信息安全
